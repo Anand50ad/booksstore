@@ -11,9 +11,12 @@ body{
 }
 
 h1{
-    color: yellow;
+    color: #000;
     font: bolder;
 
+}
+h3{
+    color:aqua;
 }
 p{
     color:yellowgreen;
