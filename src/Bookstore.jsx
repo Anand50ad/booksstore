@@ -33,12 +33,12 @@ const Img = () =>{
 }
 const Author =()=>{
     return(
-        <p>By Ruskin Bond</p>
+        <p style={{color:"#617d98", fontSize:"0.75rem", marginTop:"0.25rem"}}>By Ruskin Bond</p>
     )
 }
 const Title=()=>{
     return (
-        <h1>Great Stories For Children</h1>
+        <h1 style={{fontWeight:"bold", color:"#000"}}>Great Stories For Children</h1>
     )
 }
 export default Bookstore;
